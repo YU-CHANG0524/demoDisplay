@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:none}.cls-2{stroke:#050a23;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px}
+        </style>
+    </defs>
+    <g id="Group_347" transform="translate(-531 -1837)">
+        <path id="Rectangle_258" d="M0 0H160V160H0z" class="cls-1" transform="translate(531 1837)"/>
+        <g id="Group_346" transform="translate(-1 14)">
+            <path id="Path_176" d="M14923.1 1956.269c11.37 8.212 18.95 3.79 26.53-5.053s20.213-5.053 20.213-5.053-18.95-41.058-20.213-51.165c23.372-14.528 30.319-49.9 30.319-49.9h-56.85l3.79 46.743z" class="cls-2" transform="translate(-14366)"/>
+            <path id="Path_177" d="M14957.212 1845.1s-10.738 38.531-15.16 48.638c1.895 15.792 2.9 43.841 13 52.684" class="cls-2" transform="translate(-14366)"/>
+            <path id="Path_178" d="M14938.61 1845.875l-3.507 47.859s-.71 51.148 6.87 63.15" class="cls-2" transform="translate(-14366)"/>
+            <path id="Path_179" d="M14974.328 1862.54c11.569-8 38.79-7.315 59.034 14.12-14.971 17.013-31.3 20.585-45.934 19.9s-26.54-10.378-26.54-10.378" class="cls-2" transform="translate(-14366)"/>
+            <g id="Ellipse_74" fill="#fff" stroke="#050a23" stroke-linecap="round" stroke-linejoin="round" stroke-width="3px" transform="translate(611 1862)">
+                <ellipse cx="14.5" cy="15" stroke="none" rx="14.5" ry="15"/>
+                <ellipse cx="14.5" cy="15" class="cls-1" rx="13" ry="13.5"/>
+            </g>
+            <path id="Path_180" d="M587.188 1906.051s17.939 25.416 25.789 25.416c-4.484 10.839-11.213 9.344-11.213 9.344" class="cls-2"/>
+        </g>
+    </g>
+</svg>

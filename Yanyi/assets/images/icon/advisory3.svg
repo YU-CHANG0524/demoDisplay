@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+    <defs>
+        <style>
+            .cls-1,.cls-3,.cls-4{fill:none}.cls-1,.cls-3{stroke:#050a23;stroke-width:3px}.cls-1{stroke-linecap:round;stroke-linejoin:round}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_345" transform="translate(-531 -1450)">
+        <g id="Group_343" transform="translate(-7 42)">
+            <path id="Path_164" d="M14889.694 1396.545l-4.463-29.618h32.863l-2.028 29.618" class="cls-1" transform="translate(-14309.678 60.163)"/>
+            <path id="Path_166" d="M14888.059 1377.49l-2.827-10.563h20.816l-1.285 10.563" class="cls-1" transform="translate(-14303.631 49.218)"/>
+            <path id="Path_165" fill="none" stroke="#050a23" stroke-linecap="round" stroke-width="3px" d="M14998.2 1425.728v-14.977c0-2.482 0-6.826 7.046-6.516s7.046 6.516 7.046 6.516v14.977" transform="translate(-14413 31.172)"/>
+            <path id="Path_167" d="M14928.977 1487.818s20.632-25.753 46.871-10.2 61.224 0 61.224 0" class="cls-1" transform="translate(-14366)"/>
+            <path id="Path_174" d="M14928.977 1487.818s20.632-25.753 46.871-10.2 61.224 0 61.224 0" class="cls-1" transform="translate(-14366 10)"/>
+            <path id="Path_175" d="M14928.977 1487.818s20.632-25.753 46.871-10.2 61.224 0 61.224 0" class="cls-1" transform="translate(-14366 21)"/>
+            <path id="Path_168" d="M14937.462 1480.221a58.815 58.815 0 0 1-20.407-23.5h116.129s.19 12.83-12.4 25.419" class="cls-1" transform="translate(-14366)"/>
+            <path id="Path_169" d="M14974.417 1435.391h28.686v9.916h16.808l-1.326 11.279" class="cls-1" transform="translate(-14366)"/>
+            <path id="Path_170" d="M14984.524 1430.3l1.748-17.951s13.594 5.17 12.816 5.515-9.516 2.93-9.516 2.93" class="cls-1" transform="translate(-14366 5.087)"/>
+            <g id="Ellipse_72" class="cls-3" transform="translate(619 1461)">
+                <circle cx="8" cy="8" r="8" class="cls-5"/>
+                <circle cx="8" cy="8" r="6.5" class="cls-4"/>
+            </g>
+            <g id="Ellipse_73" class="cls-3" transform="translate(640 1461)">
+                <circle cx="8" cy="8" r="8" class="cls-5"/>
+                <circle cx="8" cy="8" r="6.5" class="cls-4"/>
+            </g>
+            <path id="Path_171" d="M14922.819 1466.76h64.138" class="cls-3" transform="translate(-14366)"/>
+            <path id="Path_172" d="M14999.121 1466.76h8.4" class="cls-3" transform="translate(-14366)"/>
+            <path id="Path_173" d="M14999.121 1466.76h10.4" class="cls-3" transform="translate(-14345)"/>
+        </g>
+        <path id="Rectangle_256" d="M0 0H160V160H0z" class="cls-4" transform="translate(531 1450)"/>
+    </g>
+</svg>

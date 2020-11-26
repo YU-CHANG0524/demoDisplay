@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="219" height="219" viewBox="0 0 219 219">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#050a23;stroke-width:1.5px;stroke-miterlimit:10}
+        </style>
+    </defs>
+    <g id="Group_323" transform="translate(-493 -4353)">
+        <g id="Group_92">
+            <path id="Path_104" d="M181.677 28.5l-67.307 81.161-.106 6.733 22.636 18.7 6.517-2.8 63.5-77.5" class="cls-1" transform="translate(476.39 4349.356)"/>
+            <path id="Line_35" d="M0 0L28.377 23.444" class="cls-1" transform="translate(590.761 4459.017)"/>
+            <path id="Path_105" d="M119.156 136.5l-26.264 31.79 7.376 6.094 26.264-31.79" class="cls-1" transform="translate(479.123 4335.547)"/>
+            <path id="Path_106" d="M127.646 144.08L99.373 178.3l-14.737-12.174 2.009-2.432 2.655 2.193 26.264-31.79" class="cls-1" transform="translate(480.179 4335.854)"/>
+            <path id="Line_36" d="M0 0L69.919 0" class="cls-1" transform="translate(508.443 4490.99)"/>
+            <path id="Line_37" d="M0 0L12.62 0" class="cls-1" transform="translate(582.873 4490.99)"/>
+            <path id="Line_38" d="M0 0L98.177 0" class="cls-1" transform="translate(598.648 4491.436)"/>
+            <path id="Path_107" d="M126.756 184.783s-3.329 12.752-26.587 15.41" class="cls-1" transform="translate(478.193 4329.374)"/>
+            <path id="Path_108" d="M141.629 187.57s-7.413 25.231-43.46 25.188" class="cls-1" transform="translate(478.448 4329.018)"/>
+            <path id="Path_109" d="M161.56 187.66s-15.263 42.6-64.391 37.321" class="cls-1" transform="translate(478.576 4329.006)"/>
+        </g>
+        <g id="Ellipse_49" fill="none" stroke="#050a23" stroke-width="1.5px" transform="translate(493 4353)">
+            <circle cx="109.5" cy="109.5" r="109.5" stroke="none"/>
+            <circle cx="109.5" cy="109.5" r="108.75"/>
+        </g>
+    </g>
+</svg>
